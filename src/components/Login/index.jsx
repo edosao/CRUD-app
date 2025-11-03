@@ -42,8 +42,8 @@ const Login = ({ setIsAuthenticated }) => {
             icon: "error",
             title: "Login Failed",
             text: "Incorrect email or password.",
-            timer: 1500,
             showConfirmButton: false,
+            timer: 1500,
           });
         },
       });

@@ -9,7 +9,10 @@ const Header = ({ setIsAdding, setIsAuthenticated }) => {
       <div className="my-8">
         <button
           className="border  bg-[#0366ee] hover:bg-[#0356d6] text-base text-white py-2 px-4 rounded font-bold"
-          onClick={() => setIsAdding(true)}
+          onClick={() => {
+            setIsAdding(true);
+            localStorage.clear();
+          }}
         >
           Add Employee
         </button>

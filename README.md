@@ -5,13 +5,17 @@ This project is an improved version of an open-source React CRUD app
 
 ---
 
+![App Preview](./assets/preview.png)
+
 ## 🚀 Features
+
 - Add, edit, and delete employee data
 - Data persistence using `localStorage`
 - Built with React functional components and hooks
 - Fully styled with **Tailwind CSS**
 
 ## 🧩 Improvements Made
+
 - Replaced all inline and CSS styles with **Tailwind CSS** utility classes.
 - Optimized state management with **LocalStorage initializer** inside `useState` for faster load.
 - Standardized all SweetAlert2 prompts for consistent user feedback.
@@ -20,6 +24,7 @@ This project is an improved version of an open-source React CRUD app
 - Removed redundant wrappers and simplified logic for easier maintenance.
 
 ## Technologies Used
+
 - [React](http://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [SweetAlert2](https://sweetalert2.github.io)
@@ -43,11 +48,11 @@ npm run dev
 ```
 
 ## Acknowledgment
+
 This project was inspired by an open-source React CRUD app on GitHub.
 Credit goes to the original creator for the core structure and logic.
 
-🔗 Original Project: [crud-app](https://github.com/SafdarJamal/crud-app) 
-
+🔗 Original Project: [crud-app](https://github.com/SafdarJamal/crud-app)
 
 ### 👨‍💻 Author
 
