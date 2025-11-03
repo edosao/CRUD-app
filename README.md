@@ -29,8 +29,6 @@ This project is an improved version of an open-source React CRUD app
 - [Tailwind CSS](https://tailwindcss.com/)
 - [SweetAlert2](https://sweetalert2.github.io)
 
-[Edosa Ogbevoen](https://github.com/edosao)
-
 ## ⚙️ Installation & Setup
 
 ```bash
