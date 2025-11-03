@@ -5,7 +5,7 @@ This project is an improved version of an open-source React CRUD app
 
 ---
 
-![App Preview](./assets/preview.png)
+![App Preview](./src/assets/preview.png)
 
 ## 🚀 Features
 
